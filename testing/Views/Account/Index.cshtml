@@ -1,0 +1,40 @@
+﻿@model testing.Models.Employee
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+
+
+@using (Html.BeginForm("Home", "Account", "Post"))
+{
+    if (Model != null )
+    {
+           <input type="hidden" value="@Model.id" name="id" />
+    }
+    @Html.LabelFor(model => model.EmpName, "Name")
+    @Html.TextBoxFor(model => model.EmpName)
+    @Html.ValidationMessageFor(model => model.EmpName)<br />
+
+    @Html.LabelFor(model => model.Email)
+    @Html.TextBoxFor(model => model.Email)
+    @Html.ValidationMessageFor(model => model.Email)<br />
+
+    @Html.LabelFor(model => model.Password)
+    @Html.PasswordFor(model => model.Password)
+    @Html.ValidationMessageFor(model => model.Password)<br />
+
+
+
+    @Html.LabelFor(model => model.Role)
+    @Html.TextBoxFor(model => model.Role)
+    @Html.ValidationMessageFor(model => model.Role)<br />
+
+
+
+    @Html.ValidationSummary(true)
+
+    <input type="submit" value="Register" />
+}

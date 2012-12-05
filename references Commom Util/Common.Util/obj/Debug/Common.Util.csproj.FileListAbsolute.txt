@@ -1,0 +1,14 @@
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\bin\Debug\Common.Util.dll
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\bin\Debug\Common.Util.pdb
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\obj\Debug\Common.Util.dll
+C:\TFS-PHT\PHT\Development\Shared\Common\Common.Util\obj\Debug\Common.Util.pdb
+D:\Projects\SimClock\Util Reference\Common.Util\bin\Debug\Common.Util.dll
+D:\Projects\SimClock\Util Reference\Common.Util\bin\Debug\Common.Util.pdb
+D:\Projects\SimClock\Util Reference\Common.Util\obj\Debug\Common.Util.dll
+D:\Projects\SimClock\Util Reference\Common.Util\obj\Debug\Common.Util.pdb
+D:\Projects\SimClock\Util Reference\Common.Util\obj\Debug\Common.Util.csprojResolveAssemblyReference.cache
+C:\Users\PHT\Documents\Visual Studio 2012\Projects\testing\references Commom Util\Common.Util\bin\Debug\Common.Util.dll
+C:\Users\PHT\Documents\Visual Studio 2012\Projects\testing\references Commom Util\Common.Util\bin\Debug\Common.Util.pdb
+C:\Users\PHT\Documents\Visual Studio 2012\Projects\testing\references Commom Util\Common.Util\obj\Debug\Common.Util.dll
+C:\Users\PHT\Documents\Visual Studio 2012\Projects\testing\references Commom Util\Common.Util\obj\Debug\Common.Util.pdb
+C:\Users\PHT\Documents\Visual Studio 2012\Projects\testing\references Commom Util\Common.Util\obj\Debug\Common.Util.csprojResolveAssemblyReference.cache
