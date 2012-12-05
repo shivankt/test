@@ -44,8 +44,10 @@
 <script type="text/javascript" >
     function Delete(obj)
     {
+
         $.post("/Account/Delete?id=" + obj, function (data) {
             $("#DivData").html(data);
+
 
         });
 
